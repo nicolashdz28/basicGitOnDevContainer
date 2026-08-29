@@ -35,7 +35,7 @@ mvn --version
 
 **Actividad:** copia las versiones que obtuviste en tus apuntes o en el reporte de la práctica.
 
-- [ ] Confirmé que Git, `java`, `javac` y Maven están disponibles.
+- [x] Confirmé que Git, `java`, `javac` y Maven están disponibles.
 
 Los ejemplos están en `src/`. La carpeta `bin/` se usa solamente para archivos compilados y está excluida por `.gitignore`.
 
@@ -54,8 +54,8 @@ Observa que `javac` genera archivos `.class` en `bin/`, mientras que `java` ejec
 
 **Actividad:** modifica el mensaje de `Saludo.java` o agrega una operación a `Calculadora.java`, vuelve a compilar y ejecuta nuevamente la clase correspondiente.
 
-- [ ] Compilé y ejecuté los dos ejemplos.
-- [ ] Realicé una modificación en un archivo `.java` y comprobé su resultado.
+- [x] Compilé y ejecuté los dos ejemplos.
+- [x] Realicé una modificación en un archivo `.java` y comprobé su resultado.
 
 ## 3. Preparar el repositorio
 
