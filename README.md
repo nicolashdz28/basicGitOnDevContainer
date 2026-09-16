@@ -77,9 +77,9 @@ git diff --cached
 
 **Actividad:** prepara únicamente los cuatro archivos indicados. Antes de continuar, verifica que `git diff --cached` muestre tus cambios y que no incluya archivos `.class`.
 
-- [ ] Revisé el estado inicial con `git status`.
-- [ ] Agregué los archivos fuente y de configuración con `git add`.
-- [ ] Revisé el contenido preparado con `git diff --cached`.
+- [x] Revisé el estado inicial con `git status`.
+- [x] Agregué los archivos fuente y de configuración con `git add`.
+- [x] Revisé el contenido preparado con `git diff --cached`.
 
 ## 4. Crear y corregir commits
 
@@ -91,7 +91,7 @@ git log --oneline -1
 ```
 
 Ahora modifica una línea de `README.md` o de uno de los ejemplos. Revisa la diferencia antes de preparar el cambio:
-
+//ESTO ES LO QUE MODIFIQUE
 ```bash
 git diff
 git add README.md
