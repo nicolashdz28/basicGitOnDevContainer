@@ -122,7 +122,7 @@ git switch -c mejora-instrucciones
 ```
 
 Edita `README.md`, guarda el cambio y ejecuta:
-/ESTO ES LO QUE ESTOY MODIFICANDO 
+/ESTO ES LO QUE ESTOY MODIFICANDO SEGUN ENTIENDO ESTO LO ESTOY HACIENDO EN UNA RAMA DIFERENTE A LA QUE ESTBA 
 ```bash
 git add README.md
 git commit -m "Aclara las instrucciones del ejercicio"
