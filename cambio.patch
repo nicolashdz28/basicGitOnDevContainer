@@ -1,0 +1,12 @@
+diff --git a/src/Saludo.java b/src/Saludo.java
+index cb471a1..e17ab7b 100644
+--- a/src/Saludo.java
++++ b/src/Saludo.java
+@@ -1,5 +1,5 @@
+ public class Saludo {
+     public static void main(String[] args) {
+-        System.out.println("Hola soy Nico");
++        System.out.println("Hola soy Nico, y esta es la modificación del paso 7");
+     }
+ }
+\ No newline at end of file
